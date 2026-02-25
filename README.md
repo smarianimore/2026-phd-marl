@@ -1,4 +1,4 @@
-# PhD course on Multi-Agent Reinforcement Learning
+# PhD course on "Multi-Agent Reinforcement Learning"
 
 This is the reference page 
 for the PhD course titled 
@@ -9,27 +9,25 @@ offered by the [University of Modena and Reggio Emilia](https://www.unimore.it/i
 
 # Organisation
 
-The course is 12 hours (3 ETCS) long 
-and is scheduled for late October 2024:
- - Wednesday   **23/10/2024**,  14:00 - 18:00
- - Friday  **25/10/2024**,  10:00 - 14:00
- - Wednesday  **30/10/2024**,  14:00 - 18:00
-
-Lectures will be in two locations 
-(close to each other, both in **Reggio Emilia, San Lazzaro Campus**):
- - ~~on both Wednesdays, 23rd and 30th:   **room F1.3** of the [Buccola-Bisi Pavillion](https://maps.app.goo.gl/B7RUghyqtGYQMbc69)~~
- - on Wednesdays, 23rd:   **room F1.3** of the [Buccola-Bisi Pavillion](https://maps.app.goo.gl/B7RUghyqtGYQMbc69)
- - on Friday, 25th:  **lab G1.2** of the [Tamburini Pavillion](https://maps.app.goo.gl/88nZ1KWApgovJiuY9)
- - on Wednesday, 30th:  **room F0.6** of the [Buccola-Bisi Pavillion](https://maps.app.goo.gl/B7RUghyqtGYQMbc69)
+> [!IMPORTANT]  
+> The course is 12 hours (3 ETCS) long
+> and is scheduled for late March 2026
+> in **Reggio Emilia, San Lazzaro Campus**
+> at the [Buccola-Bisi Pavillion](https://maps.app.goo.gl/B7RUghyqtGYQMbc69):
+ 
+ - Tuesday   **24/03/2026**,  14:00 - 18:00,  room F1.4
+ - Thursday  **26/03/2026**,  14:00 - 18:00,  room F1.1
+ - Tuesday  **31/03/2026**,  14:00 - 18:00,   room F1.4
 
 You are *not required* to bring with you your own laptop 
 to do exercises or follow along, 
 but can of course bring it 
 to take notes and browse slides yourself.
 
-**Remote participation IS NOT ALLOWED**, 
-except for exceptional circumstances that should be motivated and agreed upon with me. 
-[Send me an email](mailto:stefano.mariani@unimore.it) in case.
+> [!CAUTION]
+> **Remote participation IS NOT ALLOWED**,
+> except for exceptional circumstances that should be motivated and agreed upon with me.
+> [Send me an email](mailto:stefano.mariani@unimore.it) in case.
 
 # Syllabus
 
@@ -69,6 +67,11 @@ Lectures will cover the following topics:
 
 # Material
 
+> [!WARNING]
+> Content subject to change
+> (e.g.\ video-recordings to be updated with the new lectures),
+> but I'll leave it here in case you want to have a clearer picture of what the course is about.
+
 Course slides are available [here](https://unimore365-my.sharepoint.com/:p:/g/personal/s_mariani_unimore_it/EaifxsY-xBVEr_C-_lx3JLkB4CyM3s2y9SF6kdTrPPP9mw?e=kLp0sc).
 
 Code examples are available in [this repository](https://github.com/smarianimore/2023-dai-marl-lab). 
@@ -78,7 +81,7 @@ These video recordings CANNOT substitute attendance in presence,
 but are meant to let you autonomously review the lectures at your own pace. 
 To get the expected ETCS, attendants are still required to attend the majority of the lectures in presence. 
 
-Missing video recordings due to technical issues can be found in this alternative YouTube playlist, for a very similar lecture I gave ina master degree course on Distributed Artificial Intelligence: [here](https://www.youtube.com/playlist?list=PLu56TE55PP01c1gCREaUZt-aIAJ2N9bOm)
+Missing video recordings due to technical issues can be found in this alternative YouTube playlist, for a very similar lecture I gave in a master degree course on Distributed Artificial Intelligence: [here](https://www.youtube.com/playlist?list=PLu56TE55PP01c1gCREaUZt-aIAJ2N9bOm)
  
 The content of the slides is assembled from different sources, 
 but the most relevant one is the [MARL book](https://www.marl-book.com/), 
@@ -89,7 +92,9 @@ and code examples, too.
 
 # Exam
 
-Attendants are expected to take a final examination to earn the course ETCS. 
+> [!IMPORTANT]  
+> Attendants are expected to take a final examination to earn the course ETCS. 
+
 Such an exam may consist of: 
  1. a small software project
  2. a brief essay
