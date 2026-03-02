@@ -1,9 +1,9 @@
 # PhD course on "Multi-Agent Reinforcement Learning"
 
-> [!IMPORTANT]
+> [!TIP]
 > Please, if you intend to participate,
 > send an email to [me](mailto:stefano.mariani@unimore.it)
-> and fill out this brief form: [https://forms.gle/pFXGavZQ4jTKEeP28](https://forms.gle/pFXGavZQ4jTKEeP28)
+> and fill out this brief **anonymous** form: [https://forms.gle/pFXGavZQ4jTKEeP28](https://forms.gle/pFXGavZQ4jTKEeP28)
 
 This is the reference page 
 for the PhD course titled 
