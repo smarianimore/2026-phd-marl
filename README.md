@@ -21,7 +21,7 @@ offered by the [University of Modena and Reggio Emilia](https://www.unimore.it/i
 > at the [Buccola-Bisi Pavillion](https://maps.app.goo.gl/B7RUghyqtGYQMbc69):
  
  - Tuesday   **24/03/2026**,  14:00 - 18:00,  room F1.4
- - Thursday  **26/03/2026**,  14:00 - 18:00,  room F1.1
+ - ~~Thursday  **26/03/2026**,  14:00 - 18:00,  room F1.1~~ Monday **30/03/2026**, 9:00 - 13:00,  room F0.4
  - Tuesday  **31/03/2026**,  14:00 - 18:00,   room F1.4
 
 You are *not required* to bring with you your own laptop 
