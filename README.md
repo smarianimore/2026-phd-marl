@@ -77,7 +77,7 @@ Lectures will cover the following topics:
 > (e.g.\ video-recordings to be updated with the new lectures),
 > but I'll leave it here in case you want to have a clearer picture of what the course is about.
 
-Course slides are available [here](https://unimore365-my.sharepoint.com/:p:/g/personal/s_mariani_unimore_it/EaifxsY-xBVEr_C-_lx3JLkB4CyM3s2y9SF6kdTrPPP9mw?e=kLp0sc).
+Course slides are available [here](https://unimore365-my.sharepoint.com/:p:/g/personal/s_mariani_unimore_it/IQD8tX7ot21PRLgwG_5LVgdnAaZG_3AKeywLqxW_K3c49k4?e=JfjGyS).
 
 Code examples are available in [this repository](https://github.com/smarianimore/2023-dai-marl-lab). 
 
