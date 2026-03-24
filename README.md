@@ -34,6 +34,8 @@ to take notes and browse slides yourself.
 > except for exceptional circumstances that should be motivated and agreed upon with me.
 > [Send me an email](mailto:stefano.mariani@unimore.it) in case.
 
+🆕 MS Teams link for participants allowed to participate remotely: [channel "Livestream"](https://teams.microsoft.com/l/team/19%3A31yumAbGXPnh7_4MMWFgfQJmftzZPWaDcbo7wuiJeCw1%40thread.tacv2/conversations?groupId=2ef7f988-2930-4e82-a3ad-a458be4c5b8b&tenantId=e787b025-3fc6-4802-874a-9c988768f892)
+
 # Syllabus
 
 I do not assume *any background knowledge* of 
