@@ -20,7 +20,7 @@ offered by the [University of Modena and Reggio Emilia](https://www.unimore.it/i
 > in **Reggio Emilia, San Lazzaro Campus**
 > at the [Buccola-Bisi Pavillion](https://maps.app.goo.gl/B7RUghyqtGYQMbc69):
  
- - Tuesday   **24/03/2026**,  14:00 - 18:00,  room F1.4
+ - ✅ Tuesday   **24/03/2026**,  14:00 - 18:00,  room F1.4
  - ~~Thursday  **26/03/2026**,  14:00 - 18:00,  room F1.1~~ Monday **30/03/2026**, 9:00 - 13:00,  room F0.4
  - Tuesday  **31/03/2026**,  14:00 - 18:00,   room F1.4
 
@@ -83,12 +83,12 @@ Course slides are available [here](https://unimore365-my.sharepoint.com/:p:/g/pe
 
 Code examples are available in [this repository](https://github.com/smarianimore/2023-dai-marl-lab). 
 
-Video recordings of the lectures are available [on YouTube](https://www.youtube.com/playlist?list=PLu56TE55PP03qkUJXydG9RPlpyZ66Fvvl). 
+Video recordings of the lectures are available [on YouTube](https://www.youtube.com/playlist?list=PLu56TE55PP00F5cHfhWlUIdEKpbx-uVgd):
+  - Tuesday 24/03/2026  📽️: The basics of RL [part 1](https://www.youtube.com/watch?embed=no&amp;v=AGqA8n07HBk&amp;ab_channel=StefanoMariani), [part 2](https://www.youtube.com/watch?embed=no&amp;v=-2Peclb49l8&amp;ab_channel=StefanoMariani), [part 3](https://www.youtube.com/watch?embed=no&amp;v=Y86AEVdcYzM&amp;ab_channel=StefanoMariani)
+
 These video recordings CANNOT substitute attendance in presence, 
 but are meant to let you autonomously review the lectures at your own pace. 
 To get the expected ETCS, attendants are still required to attend the majority of the lectures in presence. 
-
-Missing video recordings due to technical issues can be found in this alternative YouTube playlist, for a very similar lecture I gave in a master degree course on Distributed Artificial Intelligence: [here](https://www.youtube.com/playlist?list=PLu56TE55PP01c1gCREaUZt-aIAJ2N9bOm)
  
 The content of the slides is assembled from different sources, 
 but the most relevant one is the [MARL book](https://www.marl-book.com/), 
