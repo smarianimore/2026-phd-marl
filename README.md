@@ -81,7 +81,7 @@ Lectures will cover the following topics:
 
 Course slides are available [here](https://unimore365-my.sharepoint.com/:p:/g/personal/s_mariani_unimore_it/IQD8tX7ot21PRLgwG_5LVgdnAaZG_3AKeywLqxW_K3c49k4?e=JfjGyS).
 
-Code examples are available in [this repository](https://github.com/smarianimore/2023-dai-marl-lab). 
+Code examples are available in [this repository](https://github.com/smarianimore/2026-dai-marl-lab). 
 
 Video recordings of the lectures are available [on YouTube](https://www.youtube.com/playlist?list=PLu56TE55PP00F5cHfhWlUIdEKpbx-uVgd):
   - Tuesday 24/03/2026  📽️: The basics of RL [part 1](https://www.youtube.com/watch?embed=no&amp;v=AGqA8n07HBk&amp;ab_channel=StefanoMariani), [part 2](https://www.youtube.com/watch?embed=no&amp;v=-2Peclb49l8&amp;ab_channel=StefanoMariani), [part 3](https://www.youtube.com/watch?embed=no&amp;v=Y86AEVdcYzM&amp;ab_channel=StefanoMariani)
