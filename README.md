@@ -21,8 +21,8 @@ offered by the [University of Modena and Reggio Emilia](https://www.unimore.it/i
 > at the [Buccola-Bisi Pavillion](https://maps.app.goo.gl/B7RUghyqtGYQMbc69):
  
  - ✅ Tuesday   **24/03/2026**,  14:00 - 18:00,  room F1.4
- - ~~Thursday  **26/03/2026**,  14:00 - 18:00,  room F1.1~~ Monday **30/03/2026**, 9:00 - 13:00,  room F0.4
- - Tuesday  **31/03/2026**,  14:00 - 18:00,   room F1.4
+ - ~~Thursday  **26/03/2026**,  14:00 - 18:00,  room F1.1~~ ✅ Monday **30/03/2026**, 9:00 - 13:00,  room F0.4
+ - ✅ Tuesday  **31/03/2026**,  14:00 - 18:00,   room F1.4
 
 You are *not required* to bring with you your own laptop 
 to do exercises or follow along, 
@@ -84,7 +84,8 @@ Course slides are available [here](https://unimore365-my.sharepoint.com/:p:/g/pe
 Code examples are available in [this repository](https://github.com/smarianimore/2026-dai-marl-lab). 
 
 Video recordings of the lectures are available [on YouTube](https://www.youtube.com/playlist?list=PLu56TE55PP00F5cHfhWlUIdEKpbx-uVgd):
-  - Tuesday 24/03/2026  📽️: The basics of RL [part 1](https://www.youtube.com/watch?embed=no&amp;v=AGqA8n07HBk&amp;ab_channel=StefanoMariani), [part 2](https://www.youtube.com/watch?embed=no&amp;v=-2Peclb49l8&amp;ab_channel=StefanoMariani), [part 3](https://www.youtube.com/watch?embed=no&amp;v=Y86AEVdcYzM&amp;ab_channel=StefanoMariani)
+  - Tuesday 24/03/2026 📽️: The basics of RL [part 1](https://www.youtube.com/watch?embed=no&amp;v=AGqA8n07HBk&amp;ab_channel=StefanoMariani), [part 2](https://www.youtube.com/watch?embed=no&amp;v=-2Peclb49l8&amp;ab_channel=StefanoMariani), [part 3](https://www.youtube.com/watch?embed=no&amp;v=Y86AEVdcYzM&amp;ab_channel=StefanoMariani)
+  - Monday 30/03/2026 📽️: The basics of RL [part 4](https://youtu.be/nVJXLfR0Uiw), [From RL to **MA**RL + Games](https://youtu.be/0hZOrROpaNs), [Solution concepts in MARL](https://youtu.be/petBQNlClaE)
 
 These video recordings CANNOT substitute attendance in presence, 
 but are meant to let you autonomously review the lectures at your own pace. 
