@@ -86,7 +86,7 @@ Code examples are available in [this repository](https://github.com/smarianimore
 Video recordings of the lectures are available [on YouTube](https://www.youtube.com/playlist?list=PLu56TE55PP00F5cHfhWlUIdEKpbx-uVgd):
   - Tuesday 24/03/2026 📽️: The basics of RL [part 1](https://www.youtube.com/watch?embed=no&amp;v=AGqA8n07HBk&amp;ab_channel=StefanoMariani), [part 2](https://www.youtube.com/watch?embed=no&amp;v=-2Peclb49l8&amp;ab_channel=StefanoMariani), [part 3](https://www.youtube.com/watch?embed=no&amp;v=Y86AEVdcYzM&amp;ab_channel=StefanoMariani)
   - Monday 30/03/2026 📽️: The basics of RL [part 4](https://youtu.be/nVJXLfR0Uiw), [From RL to **MA**RL + Games](https://youtu.be/0hZOrROpaNs), [Solution concepts in MARL](https://youtu.be/petBQNlClaE)
-  - Tuesday 31/03/2026 📽️: [Computing MARL solutions](https://youtu.be/vWHlZ8pxYrc)
+  - Tuesday 31/03/2026 📽️: [Computing MARL solutions](https://youtu.be/vWHlZ8pxYrc), [Deep (MA)RL](https://youtu.be/MuAg-jyZNb4), and [Learning to Communicate in MARL](https://youtu.be/Pcqa9vCoPho)
 
 These video recordings CANNOT substitute attendance in presence, 
 but are meant to let you autonomously review the lectures at your own pace. 
